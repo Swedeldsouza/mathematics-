@@ -1,4 +1,13 @@
 # mathematics-
+
+module 1 : Equations ,graphs and functions
+
+module 2 : Derivatives and optimization
+
+module 3 : Vectors and matrices
+
+module 4 : statistics and probability 
+
 #Module 1
 
 1.Introduction to Linear Equation
