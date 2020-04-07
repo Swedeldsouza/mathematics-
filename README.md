@@ -25,3 +25,7 @@ module 4 : statistics and probability
 7.Quadratic Equations
 
 8.Functions
+
+
+
+# module2
